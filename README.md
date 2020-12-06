@@ -15,7 +15,6 @@ Implementing Gossip Protocol and Push-Sum Protocol for Distributed Systems in F#
       ii) 2D : 10^4
       iii)imp2D : 10^4
       iv) Line: 10^5 (Terminates relatively faster(~ 10 min) but convergence rate is poor(~50%))
-
    b) push-sum
        i)Full : 10^5 (Takes 20 min to build but converges very fast)
        ii)2D :  10^4
